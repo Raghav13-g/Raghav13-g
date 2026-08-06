@@ -53,12 +53,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Raghav13-g&theme=nord&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-![](https://streak-stats.demolab.com/?user=Raghav13-g&theme=nord&hide_border=false)
 
 ---
 
